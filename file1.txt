@@ -1,3 +1,4 @@
 file 1, line 1
 
  branch-feature-1-Line-1
+ branch-feature-1-Line-2
