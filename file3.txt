@@ -1,3 +1,2 @@
 file 2, 
 	Master branch, line 1
-	Master branch, line 2
